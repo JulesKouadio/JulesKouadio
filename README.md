@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulesKouadio  passionné d'informatique,de mathélatiques et de sport.
-- 👀  Mon objectif à travers ce projet est  de conjuguer mes connaissances issues des ces trois domaines  cités plus haut afin d'offrir  aux amateurs de paris solutions  adap
-- 🌱  à la probléma des paris sportifs.
+- 👀  Mon objectif à travers ce projet est  de conjuguer mes connaissances issues des ces trois domaines  suscités afin d'offrir  aux amateurs de paris,des solutions  adaptées repondant
+- 🌱  à la problématique des paris sportifs.
 
 
 
